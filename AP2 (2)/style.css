@@ -1,0 +1,22 @@
+.nav-link li{
+    list-style: none
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+section hr{
+    color: black;
+    border: solid black;
+    height: 4px;
+}
+.px-2{
+    padding-left: (1.5);
+}
+.container-fluid img{
+    width: 60px;
+    height: 60px;
+}
+footer{
+    height: 40px;
+}
